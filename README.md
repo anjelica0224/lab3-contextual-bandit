@@ -398,21 +398,6 @@ User Features → Classification Model → User Context
 4. No collaborative filtering component
 
 
-
-### Repository Structure
-```
-lab3-contextual-bandit/
-├── data/
-│   ├── news_articles.csv
-│   ├── train_users.csv
-│   └── test_users.csv
-├── lab3_results_U20230145.ipynb
-├── README.md
-├── confusion_matrix_U20230145.png
-├── hyperparameter_comparison_U20230145.png
-└── algorithm_comparison_U20230145.png
-```
-
 ### Reproducibility
 - Random seed: 42 (for all experiments)
 - All hyperparameters documented
@@ -421,9 +406,6 @@ lab3-contextual-bandit/
 
 ---
 
-
-
-## Appendix: Detailed Results
 
 ### Complete Hyperparameter Results
 
